@@ -1,2 +1,1 @@
-# advanced-operating-systems-lab
-Advanced Operating Systems course laboratory exercises.
+https://www.fer.unizg.hr/predmet/nos
